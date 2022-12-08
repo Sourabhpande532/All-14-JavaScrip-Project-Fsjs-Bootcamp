@@ -11,15 +11,6 @@ This repository contains projects given us as an assignment into **"JavaScript F
 <br>
 <br>
 
-## 🛑 DOM Assignments 🛑
-
-### 📌 **Link: (don't forget to check readme also)** 
-| \*  |      **Project(Source Code)**       |   Live Demo   |
-| :-: | :-----------------------------: | :-----------: |
-| 01  |         [Typing game]()         | [Live Demo]() |
-
-
-<br>
 
 ## 🛑 Mini Projects 🛑
 
